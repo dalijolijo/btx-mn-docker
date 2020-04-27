@@ -15,7 +15,7 @@ Docker Compose to running BitCore Masternode (Version 0.90.9.0)
 
 * 2,100 BitCore BTX coins for a masternode collateral
 
-* BitCore BTX QT Wallet (min. Version 0.90.8.8.1)
+* BitCore BTX QT Wallet (min. Version 0.90.9.0)
 
 ## Wallet Setup
 
