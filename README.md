@@ -79,7 +79,7 @@ Docker Compose to running BitCore Masternode (Version 0.90.9.0)
 3. OPTIONAL for Ubuntu 16.04 / 18.04: Install docker-ce and docker-compose packages with install-docker.sh script
 
    ```sh
-   .\install-docker.sh
+   ./install-docker.sh
    ```
 
 4. Update Masternode information in file .env
