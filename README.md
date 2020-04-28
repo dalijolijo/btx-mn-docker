@@ -128,9 +128,8 @@ Docker Compose to running BitCore Masternode (Version 0.90.9.0)
     }
     ```
 
-    PLEASE NOTE: It's very important to wait until all values a true our your masternode will not be able to start !!
+    PLEASE NOTE: It's very important to wait until all values a true except 'IsFailed' your masternode will not be able to start !!
      
-
 7. Activate your Masternode via BitCore BTX QT Wallet
     Goto your Wallet, open Masternodes Tab, select your Masternode and start it with Start Alias button.
 
